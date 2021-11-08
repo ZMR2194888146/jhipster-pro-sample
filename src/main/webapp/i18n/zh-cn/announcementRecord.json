@@ -1,0 +1,32 @@
+{
+  "lwjsApp": {
+    "announcementRecord": {
+      "home": {
+        "title": "通告阅读记录",
+        "createLabel": "创建新 通告阅读记录",
+        "createOrEditLabel": "创建或编辑 通告阅读记录",
+        "notFound": "未找到 通告阅读记录 相应记录"
+      },
+      "created": "ID为 {{ param }} 的通告阅读记录 创建成功",
+      "updated": "ID为 {{ param }} 的通告阅读记录 更新成功",
+      "deleted": "ID为 {{ param }} 的通告阅读记录 删除成功",
+      "delete": {
+        "question": "你确定要删除 通告阅读记录 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "通告阅读记录"
+      },
+      "id": "ID",
+      "anntId": "通告ID",
+      "userId": "用户id",
+      "hasRead": "是否已读",
+      "readTime": "阅读时间",
+      "help": {
+        "anntId": "通告ID",
+        "userId": "用户id",
+        "hasRead": "是否已读",
+        "readTime": "阅读时间"
+      }
+    }
+  }
+}

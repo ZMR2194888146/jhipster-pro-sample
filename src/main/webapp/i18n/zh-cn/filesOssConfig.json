@@ -1,0 +1,44 @@
+{
+  "lwjsApp": {
+    "filesOssConfig": {
+      "home": {
+        "title": "对象存储配置",
+        "createLabel": "创建新 对象存储配置",
+        "createOrEditLabel": "创建或编辑 对象存储配置",
+        "notFound": "未找到 对象存储配置 相应记录"
+      },
+      "created": "ID为 {{ param }} 的对象存储配置 创建成功",
+      "updated": "ID为 {{ param }} 的对象存储配置 更新成功",
+      "deleted": "ID为 {{ param }} 的对象存储配置 删除成功",
+      "delete": {
+        "question": "你确定要删除 对象存储配置 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "对象存储配置"
+      },
+      "id": "ID",
+      "provider": "提供商",
+      "ossCode": "资源编号",
+      "endpoint": "资源地址",
+      "accessKey": "accessKey",
+      "secretKey": "secretKey",
+      "bucketName": "空间名",
+      "appId": "应用ID",
+      "region": "地域简称",
+      "remark": "备注",
+      "enabled": "启用",
+      "help": {
+        "provider": "提供商",
+        "ossCode": "资源编号",
+        "endpoint": "资源地址",
+        "accessKey": "accessKey",
+        "secretKey": "secretKey",
+        "bucketName": "空间名",
+        "appId": "应用ID",
+        "region": "地域简称",
+        "remark": "备注",
+        "enabled": "启用"
+      }
+    }
+  }
+}

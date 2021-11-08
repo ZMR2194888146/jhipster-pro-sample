@@ -1,0 +1,39 @@
+{
+  "lwjsApp": {
+    "systemAuthority": {
+      "home": {
+        "title": "角色",
+        "createLabel": "创建新 角色",
+        "createOrEditLabel": "创建或编辑 角色",
+        "notFound": "未找到 角色 相应记录"
+      },
+      "created": "ID为 {{ param }} 的角色 创建成功",
+      "updated": "ID为 {{ param }} 的角色 更新成功",
+      "deleted": "ID为 {{ param }} 的角色 删除成功",
+      "delete": {
+        "question": "你确定要删除 角色 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "角色"
+      },
+      "id": "ID",
+      "name": "角色名称",
+      "code": "角色代号",
+      "info": "信息",
+      "order": "排序",
+      "display": "展示",
+      "children": "子节点",
+      "parent": "上级",
+      "departments": "部门列表",
+      "apiPermissions": "Api权限",
+      "viewPermissions": "菜单列表",
+      "help": {
+        "name": "角色名称",
+        "code": "角色代号",
+        "info": "信息",
+        "order": "排序",
+        "display": "展示"
+      }
+    }
+  }
+}

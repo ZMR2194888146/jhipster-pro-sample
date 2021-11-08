@@ -1,0 +1,44 @@
+{
+  "lwjsApp": {
+    "smsMessage": {
+      "home": {
+        "title": "短信消息",
+        "createLabel": "创建新 短信消息",
+        "createOrEditLabel": "创建或编辑 短信消息",
+        "notFound": "未找到 短信消息 相应记录"
+      },
+      "created": "ID为 {{ param }} 的短信消息 创建成功",
+      "updated": "ID为 {{ param }} 的短信消息 更新成功",
+      "deleted": "ID为 {{ param }} 的短信消息 删除成功",
+      "delete": {
+        "question": "你确定要删除 短信消息 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "短信消息"
+      },
+      "id": "ID",
+      "title": "消息标题",
+      "sendType": "发送方式",
+      "receiver": "接收人",
+      "params": "发送所需参数Json格式",
+      "content": "推送内容",
+      "sendTime": "推送时间",
+      "sendStatus": "推送状态",
+      "retryNum": "发送次数 超过5次不再发送",
+      "failResult": "推送失败原因",
+      "remark": "备注",
+      "help": {
+        "title": "消息标题",
+        "sendType": "发送方式",
+        "receiver": "接收人",
+        "params": "发送所需参数Json格式",
+        "content": "推送内容",
+        "sendTime": "推送时间",
+        "sendStatus": "推送状态",
+        "retryNum": "发送次数 超过5次不再发送",
+        "failResult": "推送失败原因",
+        "remark": "备注"
+      }
+    }
+  }
+}

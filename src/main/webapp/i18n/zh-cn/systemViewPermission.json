@@ -1,0 +1,67 @@
+{
+  "lwjsApp": {
+    "systemViewPermission": {
+      "home": {
+        "title": "可视权限\n权限分为菜单权限、按钮权限等\n",
+        "createLabel": "创建新 可视权限\n权限分为菜单权限、按钮权限等\n",
+        "createOrEditLabel": "创建或编辑 可视权限\n权限分为菜单权限、按钮权限等\n",
+        "notFound": "未找到 可视权限\n权限分为菜单权限、按钮权限等\n 相应记录"
+      },
+      "created": "ID为 {{ param }} 的可视权限\n权限分为菜单权限、按钮权限等\n 创建成功",
+      "updated": "ID为 {{ param }} 的可视权限\n权限分为菜单权限、按钮权限等\n 更新成功",
+      "deleted": "ID为 {{ param }} 的可视权限\n权限分为菜单权限、按钮权限等\n 删除成功",
+      "delete": {
+        "question": "你确定要删除 可视权限\n权限分为菜单权限、按钮权限等\n ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "可视权限\n权限分为菜单权限、按钮权限等\n"
+      },
+      "id": "ID",
+      "text": "权限名称",
+      "i18n": "i18n主键",
+      "group": "显示分组名",
+      "link": "路由",
+      "externalLink": "外部链接",
+      "target": "链接目标",
+      "icon": "图标",
+      "disabled": "禁用菜单",
+      "hide": "隐藏菜单",
+      "hideInBreadcrumb": "隐藏面包屑",
+      "shortcut": "快捷菜单项",
+      "shortcutRoot": "菜单根节点",
+      "reuse": "允许复用",
+      "code": "权限代码(ROLE_开头)",
+      "description": "权限描述",
+      "type": "权限类型",
+      "order": "排序",
+      "apiPermissionCodes": "api权限标识串",
+      "componentFile": "组件名称",
+      "redirect": "组件名称",
+      "children": "子节点",
+      "parent": "上级",
+      "authorities": "角色列表",
+      "help": {
+        "text": "权限名称",
+        "i18n": "i18n主键",
+        "group": "显示分组名",
+        "link": "路由",
+        "externalLink": "外部链接",
+        "target": "链接目标",
+        "icon": "图标",
+        "disabled": "禁用菜单",
+        "hide": "隐藏菜单",
+        "hideInBreadcrumb": "隐藏面包屑",
+        "shortcut": "快捷菜单项",
+        "shortcutRoot": "菜单根节点",
+        "reuse": "允许复用",
+        "code": "权限代码(ROLE_开头)",
+        "description": "权限描述",
+        "type": "权限类型",
+        "order": "排序",
+        "apiPermissionCodes": "api权限标识串",
+        "componentFile": "组件名称",
+        "redirect": "组件名称"
+      }
+    }
+  }
+}

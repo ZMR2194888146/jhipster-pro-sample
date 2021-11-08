@@ -1,0 +1,67 @@
+{
+  "lwjsApp": {
+    "systemViewPermission": {
+      "home": {
+        "title": "View Permissions",
+        "createLabel": "Create a new View Permission",
+        "createOrEditLabel": "Create or edit a View Permission",
+        "notFound": "No View Permissions found"
+      },
+      "created": "A new View Permission is created with identifier {{ param }}",
+      "updated": "A View Permission is updated with identifier {{ param }}",
+      "deleted": "A View Permission is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete View Permission {{ id }}?"
+      },
+      "detail": {
+        "title": "View Permission"
+      },
+      "id": "ID",
+      "text": "Text",
+      "i18n": "I 18 N",
+      "group": "Group",
+      "link": "Link",
+      "externalLink": "External Link",
+      "target": "Target",
+      "icon": "Icon",
+      "disabled": "Disabled",
+      "hide": "Hide",
+      "hideInBreadcrumb": "Hide In Breadcrumb",
+      "shortcut": "Shortcut",
+      "shortcutRoot": "Shortcut Root",
+      "reuse": "Reuse",
+      "code": "Code",
+      "description": "Description",
+      "type": "Type",
+      "order": "Order",
+      "apiPermissionCodes": "Api Permission Codes",
+      "componentFile": "Component File",
+      "redirect": "Redirect",
+      "children": "Children",
+      "parent": "Parent",
+      "authorities": "Authorities",
+      "help": {
+        "text": "Text",
+        "i18n": "I 18 N",
+        "group": "Group",
+        "link": "Link",
+        "externalLink": "External Link",
+        "target": "Target",
+        "icon": "Icon",
+        "disabled": "Disabled",
+        "hide": "Hide",
+        "hideInBreadcrumb": "Hide In Breadcrumb",
+        "shortcut": "Shortcut",
+        "shortcutRoot": "Shortcut Root",
+        "reuse": "Reuse",
+        "code": "Code",
+        "description": "Description",
+        "type": "Type",
+        "order": "Order",
+        "apiPermissionCodes": "Api Permission Codes",
+        "componentFile": "Component File",
+        "redirect": "Redirect"
+      }
+    }
+  }
+}

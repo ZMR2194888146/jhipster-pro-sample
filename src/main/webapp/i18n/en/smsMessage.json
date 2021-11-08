@@ -1,0 +1,44 @@
+{
+  "lwjsApp": {
+    "smsMessage": {
+      "home": {
+        "title": "Sms Messages",
+        "createLabel": "Create a new Sms Message",
+        "createOrEditLabel": "Create or edit a Sms Message",
+        "notFound": "No Sms Messages found"
+      },
+      "created": "A new Sms Message is created with identifier {{ param }}",
+      "updated": "A Sms Message is updated with identifier {{ param }}",
+      "deleted": "A Sms Message is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Sms Message {{ id }}?"
+      },
+      "detail": {
+        "title": "Sms Message"
+      },
+      "id": "ID",
+      "title": "Title",
+      "sendType": "Send Type",
+      "receiver": "Receiver",
+      "params": "Params",
+      "content": "Content",
+      "sendTime": "Send Time",
+      "sendStatus": "Send Status",
+      "retryNum": "Retry Num",
+      "failResult": "Fail Result",
+      "remark": "Remark",
+      "help": {
+        "title": "Title",
+        "sendType": "Send Type",
+        "receiver": "Receiver",
+        "params": "Params",
+        "content": "Content",
+        "sendTime": "Send Time",
+        "sendStatus": "Send Status",
+        "retryNum": "Retry Num",
+        "failResult": "Fail Result",
+        "remark": "Remark"
+      }
+    }
+  }
+}

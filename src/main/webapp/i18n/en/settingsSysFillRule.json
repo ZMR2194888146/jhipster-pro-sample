@@ -1,0 +1,32 @@
+{
+  "lwjsApp": {
+    "settingsSysFillRule": {
+      "home": {
+        "title": "Sys Fill Rules",
+        "createLabel": "Create a new Sys Fill Rule",
+        "createOrEditLabel": "Create or edit a Sys Fill Rule",
+        "notFound": "No Sys Fill Rules found"
+      },
+      "created": "A new Sys Fill Rule is created with identifier {{ param }}",
+      "updated": "A Sys Fill Rule is updated with identifier {{ param }}",
+      "deleted": "A Sys Fill Rule is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Sys Fill Rule {{ id }}?"
+      },
+      "detail": {
+        "title": "Sys Fill Rule"
+      },
+      "id": "ID",
+      "name": "Name",
+      "code": "Code",
+      "implClass": "Impl Class",
+      "params": "Params",
+      "help": {
+        "name": "Name",
+        "code": "Code",
+        "implClass": "Impl Class",
+        "params": "Params"
+      }
+    }
+  }
+}

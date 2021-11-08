@@ -1,0 +1,52 @@
+{
+  "lwjsApp": {
+    "filesUploadImage": {
+      "home": {
+        "title": "Upload Images",
+        "createLabel": "Create a new Upload Image",
+        "createOrEditLabel": "Create or edit a Upload Image",
+        "notFound": "No Upload Images found"
+      },
+      "created": "A new Upload Image is created with identifier {{ param }}",
+      "updated": "A Upload Image is updated with identifier {{ param }}",
+      "deleted": "A Upload Image is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Upload Image {{ id }}?"
+      },
+      "detail": {
+        "title": "Upload Image"
+      },
+      "id": "ID",
+      "fullName": "Full Name",
+      "name": "Name",
+      "ext": "Ext",
+      "type": "Type",
+      "url": "Url",
+      "path": "Path",
+      "folder": "Folder",
+      "entityName": "Entity Name",
+      "createAt": "Create At",
+      "fileSize": "File Size",
+      "smartUrl": "Smart Url",
+      "mediumUrl": "Medium Url",
+      "referenceCount": "Reference Count",
+      "user": "User",
+      "category": "Category",
+      "help": {
+        "fullName": "Full Name",
+        "name": "Name",
+        "ext": "Ext",
+        "type": "Type",
+        "url": "Url",
+        "path": "Path",
+        "folder": "Folder",
+        "entityName": "Entity Name",
+        "createAt": "Create At",
+        "fileSize": "File Size",
+        "smartUrl": "Smart Url",
+        "mediumUrl": "Medium Url",
+        "referenceCount": "Reference Count"
+      }
+    }
+  }
+}

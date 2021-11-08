@@ -1,0 +1,42 @@
+{
+  "lwjsApp": {
+    "filesSmsConfig": {
+      "home": {
+        "title": "短信配置",
+        "createLabel": "创建新 短信配置",
+        "createOrEditLabel": "创建或编辑 短信配置",
+        "notFound": "未找到 短信配置 相应记录"
+      },
+      "created": "ID为 {{ param }} 的短信配置 创建成功",
+      "updated": "ID为 {{ param }} 的短信配置 更新成功",
+      "deleted": "ID为 {{ param }} 的短信配置 删除成功",
+      "delete": {
+        "question": "你确定要删除 短信配置 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "短信配置"
+      },
+      "id": "ID",
+      "provider": "提供商",
+      "smsCode": "资源编号",
+      "templateId": "模板ID",
+      "accessKey": "accessKey",
+      "secretKey": "secretKey",
+      "regionId": "regionId",
+      "signName": "短信签名",
+      "remark": "备注",
+      "enabled": "启用",
+      "help": {
+        "provider": "提供商",
+        "smsCode": "资源编号",
+        "templateId": "模板ID",
+        "accessKey": "accessKey",
+        "secretKey": "secretKey",
+        "regionId": "regionId",
+        "signName": "短信签名",
+        "remark": "备注",
+        "enabled": "启用"
+      }
+    }
+  }
+}

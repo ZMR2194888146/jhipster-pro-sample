@@ -1,0 +1,32 @@
+{
+  "lwjsApp": {
+    "settingsBusinessType": {
+      "home": {
+        "title": "业务类型",
+        "createLabel": "创建新 业务类型",
+        "createOrEditLabel": "创建或编辑 业务类型",
+        "notFound": "未找到 业务类型 相应记录"
+      },
+      "created": "ID为 {{ param }} 的业务类型 创建成功",
+      "updated": "ID为 {{ param }} 的业务类型 更新成功",
+      "deleted": "ID为 {{ param }} 的业务类型 删除成功",
+      "delete": {
+        "question": "你确定要删除 业务类型 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "业务类型"
+      },
+      "id": "ID",
+      "name": "名称",
+      "code": "代码",
+      "description": "描述",
+      "icon": "图标",
+      "help": {
+        "name": "名称",
+        "code": "代码",
+        "description": "描述",
+        "icon": "图标"
+      }
+    }
+  }
+}

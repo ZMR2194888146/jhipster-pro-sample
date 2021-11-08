@@ -1,0 +1,46 @@
+{
+  "lwjsApp": {
+    "settingsDataDictionary": {
+      "home": {
+        "title": "数据字典",
+        "createLabel": "创建新 数据字典",
+        "createOrEditLabel": "创建或编辑 数据字典",
+        "notFound": "未找到 数据字典 相应记录"
+      },
+      "created": "ID为 {{ param }} 的数据字典 创建成功",
+      "updated": "ID为 {{ param }} 的数据字典 更新成功",
+      "deleted": "ID为 {{ param }} 的数据字典 删除成功",
+      "delete": {
+        "question": "你确定要删除 数据字典 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "数据字典"
+      },
+      "id": "ID",
+      "name": "名称",
+      "code": "代码",
+      "title": "字典项文本",
+      "value": "字典项值",
+      "description": "描述",
+      "sortOrder": "排序",
+      "disabled": "是否禁用",
+      "fontColor": "字体颜色",
+      "valueType": "值类型",
+      "backgroundColor": "背景颜色",
+      "children": "子节点",
+      "parent": "上级节点",
+      "help": {
+        "name": "名称",
+        "code": "代码",
+        "title": "字典项文本",
+        "value": "字典项值",
+        "description": "描述",
+        "sortOrder": "排序",
+        "disabled": "是否禁用",
+        "fontColor": "字体颜色",
+        "valueType": "值类型",
+        "backgroundColor": "背景颜色"
+      }
+    }
+  }
+}

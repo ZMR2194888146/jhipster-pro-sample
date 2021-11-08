@@ -1,0 +1,9 @@
+{
+  "lwjsApp": {
+    "AnnoBusinessType": {
+      "null": "",
+      "EMAIL": "EMAIL",
+      "WORKFLOW": "WORKFLOW"
+    }
+  }
+}

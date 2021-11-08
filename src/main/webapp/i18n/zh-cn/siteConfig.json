@@ -1,0 +1,34 @@
+{
+  "lwjsApp": {
+    "siteConfig": {
+      "home": {
+        "title": "网站配置",
+        "createLabel": "创建新 网站配置",
+        "createOrEditLabel": "创建或编辑 网站配置",
+        "notFound": "未找到 网站配置 相应记录"
+      },
+      "created": "ID为 {{ param }} 的网站配置 创建成功",
+      "updated": "ID为 {{ param }} 的网站配置 更新成功",
+      "deleted": "ID为 {{ param }} 的网站配置 删除成功",
+      "delete": {
+        "question": "你确定要删除 网站配置 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "网站配置"
+      },
+      "id": "ID",
+      "title": "标题",
+      "remark": "说明",
+      "fieldName": "属性名",
+      "fieldValue": "属性值",
+      "fieldType": "属性类型",
+      "help": {
+        "title": "标题",
+        "remark": "说明",
+        "fieldName": "属性名",
+        "fieldValue": "属性值",
+        "fieldType": "属性类型"
+      }
+    }
+  }
+}

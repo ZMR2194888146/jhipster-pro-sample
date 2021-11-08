@@ -1,0 +1,9 @@
+{
+  "lwjsApp": {
+    "ViewPermissionType": {
+      "null": "",
+      "MENU": "MENU",
+      "BUTTON": "BUTTON"
+    }
+  }
+}

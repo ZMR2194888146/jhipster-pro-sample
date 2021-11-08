@@ -1,0 +1,44 @@
+{
+  "lwjsApp": {
+    "settingsRegionCode": {
+      "home": {
+        "title": "Region Codes",
+        "createLabel": "Create a new Region Code",
+        "createOrEditLabel": "Create or edit a Region Code",
+        "notFound": "No Region Codes found"
+      },
+      "created": "A new Region Code is created with identifier {{ param }}",
+      "updated": "A Region Code is updated with identifier {{ param }}",
+      "deleted": "A Region Code is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Region Code {{ id }}?"
+      },
+      "detail": {
+        "title": "Region Code"
+      },
+      "id": "ID",
+      "name": "Name",
+      "areaCode": "Area Code",
+      "cityCode": "City Code",
+      "mergerName": "Merger Name",
+      "shortName": "Short Name",
+      "zipCode": "Zip Code",
+      "level": "Level",
+      "lng": "Lng",
+      "lat": "Lat",
+      "children": "Children",
+      "parent": "Parent",
+      "help": {
+        "name": "Name",
+        "areaCode": "Area Code",
+        "cityCode": "City Code",
+        "mergerName": "Merger Name",
+        "shortName": "Short Name",
+        "zipCode": "Zip Code",
+        "level": "Level",
+        "lng": "Lng",
+        "lat": "Lat"
+      }
+    }
+  }
+}

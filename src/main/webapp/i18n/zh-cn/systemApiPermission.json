@@ -1,0 +1,43 @@
+{
+  "lwjsApp": {
+    "systemApiPermission": {
+      "home": {
+        "title": "API权限\n菜单或按钮下有相关的api权限",
+        "createLabel": "创建新 API权限\n菜单或按钮下有相关的api权限",
+        "createOrEditLabel": "创建或编辑 API权限\n菜单或按钮下有相关的api权限",
+        "notFound": "未找到 API权限\n菜单或按钮下有相关的api权限 相应记录"
+      },
+      "created": "ID为 {{ param }} 的API权限\n菜单或按钮下有相关的api权限 创建成功",
+      "updated": "ID为 {{ param }} 的API权限\n菜单或按钮下有相关的api权限 更新成功",
+      "deleted": "ID为 {{ param }} 的API权限\n菜单或按钮下有相关的api权限 删除成功",
+      "delete": {
+        "question": "你确定要删除 API权限\n菜单或按钮下有相关的api权限 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "API权限\n菜单或按钮下有相关的api权限"
+      },
+      "id": "ID",
+      "serviceName": "服务名称",
+      "name": "权限名称",
+      "code": "权限代码(ROLE_开头)",
+      "description": "权限描述",
+      "type": "类型",
+      "method": "请求类型",
+      "url": "url 地址",
+      "status": "状态",
+      "children": "子节点",
+      "parent": "上级",
+      "authorities": "角色列表",
+      "help": {
+        "serviceName": "服务名称",
+        "name": "权限名称",
+        "code": "权限代码(ROLE_开头)",
+        "description": "权限描述",
+        "type": "类型",
+        "method": "请求类型",
+        "url": "url 地址",
+        "status": "状态"
+      }
+    }
+  }
+}

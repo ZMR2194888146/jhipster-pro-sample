@@ -1,0 +1,45 @@
+{
+  "lwjsApp": {
+    "settingsDepartment": {
+      "home": {
+        "title": "部门",
+        "createLabel": "创建新 部门",
+        "createOrEditLabel": "创建或编辑 部门",
+        "notFound": "未找到 部门 相应记录"
+      },
+      "created": "ID为 {{ param }} 的部门 创建成功",
+      "updated": "ID为 {{ param }} 的部门 更新成功",
+      "deleted": "ID为 {{ param }} 的部门 删除成功",
+      "delete": {
+        "question": "你确定要删除 部门 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "部门"
+      },
+      "id": "ID",
+      "name": "名称",
+      "code": "代码",
+      "address": "地址",
+      "phoneNum": "联系电话",
+      "logo": "logo地址",
+      "contact": "联系人",
+      "createUserId": "创建用户 Id",
+      "createTime": "创建时间",
+      "children": "下级部门",
+      "authorities": "角色列表",
+      "parent": "上级",
+      "users": "员工列表",
+      "departmentAuthorities": "部门角色",
+      "help": {
+        "name": "名称",
+        "code": "代码",
+        "address": "地址",
+        "phoneNum": "联系电话",
+        "logo": "logo地址",
+        "contact": "联系人",
+        "createUserId": "创建用户 Id",
+        "createTime": "创建时间"
+      }
+    }
+  }
+}

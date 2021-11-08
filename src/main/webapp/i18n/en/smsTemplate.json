@@ -1,0 +1,34 @@
+{
+  "lwjsApp": {
+    "smsTemplate": {
+      "home": {
+        "title": "Sms Templates",
+        "createLabel": "Create a new Sms Template",
+        "createOrEditLabel": "Create or edit a Sms Template",
+        "notFound": "No Sms Templates found"
+      },
+      "created": "A new Sms Template is created with identifier {{ param }}",
+      "updated": "A Sms Template is updated with identifier {{ param }}",
+      "deleted": "A Sms Template is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Sms Template {{ id }}?"
+      },
+      "detail": {
+        "title": "Sms Template"
+      },
+      "id": "ID",
+      "name": "Name",
+      "code": "Code",
+      "type": "Type",
+      "content": "Content",
+      "testJson": "Test Json",
+      "help": {
+        "name": "Name",
+        "code": "Code",
+        "type": "Type",
+        "content": "Content",
+        "testJson": "Test Json"
+      }
+    }
+  }
+}

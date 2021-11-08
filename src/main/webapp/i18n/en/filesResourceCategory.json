@@ -1,0 +1,34 @@
+{
+  "lwjsApp": {
+    "filesResourceCategory": {
+      "home": {
+        "title": "Resource Categories",
+        "createLabel": "Create a new Resource Category",
+        "createOrEditLabel": "Create or edit a Resource Category",
+        "notFound": "No Resource Categories found"
+      },
+      "created": "A new Resource Category is created with identifier {{ param }}",
+      "updated": "A Resource Category is updated with identifier {{ param }}",
+      "deleted": "A Resource Category is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Resource Category {{ id }}?"
+      },
+      "detail": {
+        "title": "Resource Category"
+      },
+      "id": "ID",
+      "title": "Title",
+      "code": "Code",
+      "sort": "Sort",
+      "files": "Files",
+      "children": "Children",
+      "images": "Images",
+      "parent": "Parent",
+      "help": {
+        "title": "Title",
+        "code": "Code",
+        "sort": "Sort"
+      }
+    }
+  }
+}

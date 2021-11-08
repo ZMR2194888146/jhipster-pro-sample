@@ -1,0 +1,9 @@
+{
+  "lwjsApp": {
+    "DictType": {
+      "null": "",
+      "NUMBER": "NUMBER",
+      "STRING": "STRING"
+    }
+  }
+}

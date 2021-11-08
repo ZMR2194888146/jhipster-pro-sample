@@ -1,0 +1,9 @@
+{
+  "lwjsApp": {
+    "LogType": {
+      "null": "",
+      "LOGIN": "LOGIN",
+      "OPERATE": "OPERATE"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "lwjsApp": {
+    "settingsRegionCode": {
+      "home": {
+        "title": "行政区划码",
+        "createLabel": "创建新 行政区划码",
+        "createOrEditLabel": "创建或编辑 行政区划码",
+        "notFound": "未找到 行政区划码 相应记录"
+      },
+      "created": "ID为 {{ param }} 的行政区划码 创建成功",
+      "updated": "ID为 {{ param }} 的行政区划码 更新成功",
+      "deleted": "ID为 {{ param }} 的行政区划码 删除成功",
+      "delete": {
+        "question": "你确定要删除 行政区划码 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "行政区划码"
+      },
+      "id": "ID",
+      "name": "名称",
+      "areaCode": "地区代码",
+      "cityCode": "城市代码",
+      "mergerName": "全名",
+      "shortName": "短名称",
+      "zipCode": "邮政编码",
+      "level": "等级",
+      "lng": "经度",
+      "lat": "纬度",
+      "children": "子节点",
+      "parent": "上级节点",
+      "help": {
+        "name": "名称",
+        "areaCode": "地区代码",
+        "cityCode": "城市代码",
+        "mergerName": "全名",
+        "shortName": "短名称",
+        "zipCode": "邮政编码",
+        "level": "等级",
+        "lng": "经度",
+        "lat": "纬度"
+      }
+    }
+  }
+}

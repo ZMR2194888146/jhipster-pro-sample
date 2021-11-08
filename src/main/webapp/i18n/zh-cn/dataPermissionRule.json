@@ -1,0 +1,36 @@
+{
+  "lwjsApp": {
+    "dataPermissionRule": {
+      "home": {
+        "title": "数据权限规则",
+        "createLabel": "创建新 数据权限规则",
+        "createOrEditLabel": "创建或编辑 数据权限规则",
+        "notFound": "未找到 数据权限规则 相应记录"
+      },
+      "created": "ID为 {{ param }} 的数据权限规则 创建成功",
+      "updated": "ID为 {{ param }} 的数据权限规则 更新成功",
+      "deleted": "ID为 {{ param }} 的数据权限规则 删除成功",
+      "delete": {
+        "question": "你确定要删除 数据权限规则 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "数据权限规则"
+      },
+      "id": "ID",
+      "permissionId": "菜单ID",
+      "name": "规则名称",
+      "column": "字段",
+      "conditions": "条件",
+      "value": "规则值",
+      "disabled": "禁用状态",
+      "help": {
+        "permissionId": "菜单ID",
+        "name": "规则名称",
+        "column": "字段",
+        "conditions": "条件",
+        "value": "规则值",
+        "disabled": "禁用状态"
+      }
+    }
+  }
+}

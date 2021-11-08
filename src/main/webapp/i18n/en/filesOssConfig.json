@@ -1,0 +1,44 @@
+{
+  "lwjsApp": {
+    "filesOssConfig": {
+      "home": {
+        "title": "Oss Configs",
+        "createLabel": "Create a new Oss Config",
+        "createOrEditLabel": "Create or edit a Oss Config",
+        "notFound": "No Oss Configs found"
+      },
+      "created": "A new Oss Config is created with identifier {{ param }}",
+      "updated": "A Oss Config is updated with identifier {{ param }}",
+      "deleted": "A Oss Config is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Oss Config {{ id }}?"
+      },
+      "detail": {
+        "title": "Oss Config"
+      },
+      "id": "ID",
+      "provider": "Provider",
+      "ossCode": "Oss Code",
+      "endpoint": "Endpoint",
+      "accessKey": "Access Key",
+      "secretKey": "Secret Key",
+      "bucketName": "Bucket Name",
+      "appId": "App Id",
+      "region": "Region",
+      "remark": "Remark",
+      "enabled": "Enabled",
+      "help": {
+        "provider": "Provider",
+        "ossCode": "Oss Code",
+        "endpoint": "Endpoint",
+        "accessKey": "accessKey",
+        "secretKey": "secretKey",
+        "bucketName": "Bucket Name",
+        "appId": "App Id",
+        "region": "Region",
+        "remark": "Remark",
+        "enabled": "Enabled"
+      }
+    }
+  }
+}

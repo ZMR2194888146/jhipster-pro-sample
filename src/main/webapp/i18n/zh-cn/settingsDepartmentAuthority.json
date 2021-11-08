@@ -1,0 +1,38 @@
+{
+  "lwjsApp": {
+    "settingsDepartmentAuthority": {
+      "home": {
+        "title": "部门角色",
+        "createLabel": "创建新 部门角色",
+        "createOrEditLabel": "创建或编辑 部门角色",
+        "notFound": "未找到 部门角色 相应记录"
+      },
+      "created": "ID为 {{ param }} 的部门角色 创建成功",
+      "updated": "ID为 {{ param }} 的部门角色 更新成功",
+      "deleted": "ID为 {{ param }} 的部门角色 删除成功",
+      "delete": {
+        "question": "你确定要删除 部门角色 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "部门角色"
+      },
+      "id": "ID",
+      "name": "名称",
+      "code": "代码",
+      "description": "说明",
+      "createUserId": "创建用户 Id",
+      "createTime": "创建时间",
+      "users": "人员列表",
+      "apiPermissions": "API权限",
+      "viewPermissions": "可视权限",
+      "department": "所属部门",
+      "help": {
+        "name": "名称",
+        "code": "代码",
+        "description": "说明",
+        "createUserId": "创建用户 Id",
+        "createTime": "创建时间"
+      }
+    }
+  }
+}

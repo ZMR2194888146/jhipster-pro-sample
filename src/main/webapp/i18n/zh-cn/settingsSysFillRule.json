@@ -1,0 +1,32 @@
+{
+  "lwjsApp": {
+    "settingsSysFillRule": {
+      "home": {
+        "title": "填充规则",
+        "createLabel": "创建新 填充规则",
+        "createOrEditLabel": "创建或编辑 填充规则",
+        "notFound": "未找到 填充规则 相应记录"
+      },
+      "created": "ID为 {{ param }} 的填充规则 创建成功",
+      "updated": "ID为 {{ param }} 的填充规则 更新成功",
+      "deleted": "ID为 {{ param }} 的填充规则 删除成功",
+      "delete": {
+        "question": "你确定要删除 填充规则 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "填充规则"
+      },
+      "id": "ID",
+      "name": "规则名称",
+      "code": "规则Code",
+      "implClass": "规则实现类",
+      "params": "规则参数",
+      "help": {
+        "name": "规则名称",
+        "code": "规则Code",
+        "implClass": "规则实现类",
+        "params": "规则参数"
+      }
+    }
+  }
+}

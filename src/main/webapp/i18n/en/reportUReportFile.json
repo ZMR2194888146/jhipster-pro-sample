@@ -1,0 +1,32 @@
+{
+  "lwjsApp": {
+    "reportUReportFile": {
+      "home": {
+        "title": "U Report Files",
+        "createLabel": "Create a new U Report File",
+        "createOrEditLabel": "Create or edit a U Report File",
+        "notFound": "No U Report Files found"
+      },
+      "created": "A new U Report File is created with identifier {{ param }}",
+      "updated": "A U Report File is updated with identifier {{ param }}",
+      "deleted": "A U Report File is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete U Report File {{ id }}?"
+      },
+      "detail": {
+        "title": "U Report File"
+      },
+      "id": "ID",
+      "name": "Name",
+      "content": "Content",
+      "createAt": "Create At",
+      "updateAt": "Update At",
+      "help": {
+        "name": "Name",
+        "content": "Content",
+        "createAt": "Create At",
+        "updateAt": "Update At"
+      }
+    }
+  }
+}

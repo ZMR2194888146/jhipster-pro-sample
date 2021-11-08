@@ -1,0 +1,58 @@
+{
+  "lwjsApp": {
+    "announcement": {
+      "home": {
+        "title": "系统通告",
+        "createLabel": "创建新 系统通告",
+        "createOrEditLabel": "创建或编辑 系统通告",
+        "notFound": "未找到 系统通告 相应记录"
+      },
+      "created": "ID为 {{ param }} 的系统通告 创建成功",
+      "updated": "ID为 {{ param }} 的系统通告 更新成功",
+      "deleted": "ID为 {{ param }} 的系统通告 删除成功",
+      "delete": {
+        "question": "你确定要删除 系统通告 ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "系统通告"
+      },
+      "id": "ID",
+      "titile": "标题",
+      "content": "内容",
+      "startTime": "开始时间",
+      "endTime": "结束时间",
+      "senderId": "发布人Id",
+      "priority": "优先级",
+      "category": "消息类型",
+      "receiverType": "通告对象类型",
+      "sendStatus": "发布状态",
+      "sendTime": "发布时间",
+      "cancelTime": "撤销时间",
+      "businessType": "业务类型",
+      "businessId": "业务id",
+      "openType": "打开方式",
+      "openPage": "组件/路由 地址",
+      "receiverIds": "指定接收者id",
+      "summary": "摘要",
+      "help": {
+        "titile": "标题",
+        "content": "内容",
+        "startTime": "开始时间",
+        "endTime": "结束时间",
+        "senderId": "发布人Id",
+        "priority": "优先级\n（L低，M中，H高）",
+        "category": "消息类型\n通知公告,系统消息",
+        "receiverType": "通告对象类型\n（USER:指定用户，ALL:全体用户）",
+        "sendStatus": "发布状态\n",
+        "sendTime": "发布时间",
+        "cancelTime": "撤销时间",
+        "businessType": "业务类型\n(email:邮件 bpm:流程)",
+        "businessId": "业务id",
+        "openType": "打开方式",
+        "openPage": "组件/路由 地址",
+        "receiverIds": "指定接收者id",
+        "summary": "摘要"
+      }
+    }
+  }
+}

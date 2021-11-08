@@ -1,0 +1,33 @@
+{
+  "lwjsApp": {
+    "settingsPosition": {
+      "home": {
+        "title": "岗位\n@author jhipster.pro",
+        "createLabel": "创建新 岗位\n@author jhipster.pro",
+        "createOrEditLabel": "创建或编辑 岗位\n@author jhipster.pro",
+        "notFound": "未找到 岗位\n@author jhipster.pro 相应记录"
+      },
+      "created": "ID为 {{ param }} 的岗位\n@author jhipster.pro 创建成功",
+      "updated": "ID为 {{ param }} 的岗位\n@author jhipster.pro 更新成功",
+      "deleted": "ID为 {{ param }} 的岗位\n@author jhipster.pro 删除成功",
+      "delete": {
+        "question": "你确定要删除 岗位\n@author jhipster.pro ID为 {{ id }} 的数据吗？"
+      },
+      "detail": {
+        "title": "岗位\n@author jhipster.pro"
+      },
+      "id": "ID",
+      "code": "岗位代码",
+      "name": "名称",
+      "sortNo": "排序",
+      "description": "描述",
+      "users": "员工列表",
+      "help": {
+        "code": "岗位代码",
+        "name": "名称",
+        "sortNo": "排序",
+        "description": "描述"
+      }
+    }
+  }
+}

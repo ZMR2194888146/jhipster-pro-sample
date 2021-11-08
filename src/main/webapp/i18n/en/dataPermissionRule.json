@@ -1,0 +1,36 @@
+{
+  "lwjsApp": {
+    "dataPermissionRule": {
+      "home": {
+        "title": "Data Permission Rules",
+        "createLabel": "Create a new Data Permission Rule",
+        "createOrEditLabel": "Create or edit a Data Permission Rule",
+        "notFound": "No Data Permission Rules found"
+      },
+      "created": "A new Data Permission Rule is created with identifier {{ param }}",
+      "updated": "A Data Permission Rule is updated with identifier {{ param }}",
+      "deleted": "A Data Permission Rule is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Data Permission Rule {{ id }}?"
+      },
+      "detail": {
+        "title": "Data Permission Rule"
+      },
+      "id": "ID",
+      "permissionId": "Permission Id",
+      "name": "Name",
+      "column": "Column",
+      "conditions": "Conditions",
+      "value": "Value",
+      "disabled": "Disabled",
+      "help": {
+        "permissionId": "Permission Id",
+        "name": "Name",
+        "column": "Column",
+        "conditions": "Conditions",
+        "value": "Value",
+        "disabled": "Disabled"
+      }
+    }
+  }
+}
